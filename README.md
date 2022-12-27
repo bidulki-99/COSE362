@@ -1,8 +1,11 @@
 # COSE362
 
-## 주제 : 자유 주제
+## 사용 방법론
+Dimensionality Reduction
 
-ML을 적용해 의미 있는 결과를 도출 할 수 있는 문제
+Clustering
+
+Deep Learning
 
 ## 보고서 내용
 
